@@ -8,3 +8,4 @@
 - https://www.doctrine-project.org/projects/doctrine-orm/en/latest/reference/namingstrategy.html
 - https://symfony.com/bundles/DoctrineMigrationsBundle/current/index.html
 - https://symfony.com/bundles/DoctrineFixturesBundle/current/index.html#writing-fixtures
+- https://www.w3schools.com/sql/sql_alter.asp
